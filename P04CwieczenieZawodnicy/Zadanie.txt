@@ -1,0 +1,24 @@
+﻿
+
+http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt
+
+c0.
+Stwórz klase Zawodnik i dodaj do niej pola:
+Imie, Nazwisko... i inne  zgodnie z plikiem zawodnicy.txt
+
+c1.
+następnie wczytaj z pliku zawodnicy.txt wszystkie dane do tablicy zawodników
+
+string[]
+Zawodnik[]
+
+c2
+nastepnie dodaj do klasy zawodnik metodę PrzedstawSie, która zwraca napis w postaci:
+Nazywam się {imie} {nazwisko} i pochodzę z {kraju}
+
+c3
+w petli wyswietl wszystkich zawodnikow, i niech kazdy zawodnik sie przedstawi. 
+
+
+
+

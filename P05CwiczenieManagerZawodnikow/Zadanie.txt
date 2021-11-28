@@ -1,0 +1,21 @@
+﻿
+
+Proszę przygotować Klasę "ManagerZawodnikow", która 
+posiada pole : adresURL - który będzie adresem skąd zawodnicy beą pobierani 
+
+i posiada metode: wczytaj zawodników, która zwraca tablicę zawodników
+W ciele metody zaimplementuj mechanizm wczytywania zawodników
+
+
+przykałd uzycia tej klasy:
+
+ManagerZawodnikow mz = new ManagerZawodnikow();
+mz.adresURL = "www......zawodnicy.txt";
+Zawodnik[] zawodnicy = mz.WczytajZawodnikow();
+
+for (i=0....)
+{
+	Console.WriteLine(zawodnicy[i].PrzedstawSie())
+}
+
+Klasę Zawodnik, możesz skopiowac z P04 od P05
