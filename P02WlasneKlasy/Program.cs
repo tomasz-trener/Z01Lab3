@@ -41,6 +41,9 @@ namespace P02WlasneKlasy
 
             Console.WriteLine(c1.PrzedstawSie());
             Console.WriteLine(c2.PrzedstawSie());
+
+           
+
         }
     }
 }

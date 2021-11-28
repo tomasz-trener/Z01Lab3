@@ -19,3 +19,4 @@ for (i=0....)
 }
 
 Klasę Zawodnik, możesz skopiowac z P04 od P05
+https://github.com/tomasz-trener/Z01Lab3
